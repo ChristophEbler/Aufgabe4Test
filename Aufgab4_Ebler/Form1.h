@@ -97,7 +97,7 @@ namespace Aufgab4_Ebler {
 			this->Controls->Add(this->nextWinBut);
 			this->Controls->Add(this->beendenBut);
 			this->Name = L"Form1";
-			this->Text = L"Aufgabe 4 Ebler";
+			this->Text = L"Aufgabe 4 Christoph";
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
